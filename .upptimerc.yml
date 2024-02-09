@@ -16,7 +16,7 @@ sites:
     method: POST
     headers:
       - "Content-Type: application/x-www-form-urlencoded"
-    body: "{'key': '$SHREDDER_ADMIN_REST_API_KEY', 'process': 'ping'}"
+    body: "key=$SHREDDER_ADMIN_REST_API_KEY&process=ping"
   - name: Postman API documentation
     url: https://documenter.getpostman.com/view/4312055/UVRHi3Y4
 
