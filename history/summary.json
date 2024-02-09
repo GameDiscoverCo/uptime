@@ -77,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "scraping",
     "status": "up",
-    "uptime": "3.93%",
-    "uptimeDay": "3.93%",
-    "uptimeWeek": "3.93%",
-    "uptimeMonth": "3.93%",
-    "uptimeYear": "3.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 58,
     "timeDay": 58,
     "timeWeek": 58,
     "timeMonth": 58,
     "timeYear": 58,
-    "dailyMinutesDown": {
-      "2024-02-09": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Postman API documentation",
