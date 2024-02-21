@@ -58,10 +58,10 @@
     "url": "$SHREDDER_STATUS_PAGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 245,
@@ -69,16 +69,18 @@
     "timeWeek": 241,
     "timeMonth": 245,
     "timeYear": 245,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-21": 1
+    }
   },
   {
     "name": "Scraping",
     "url": "$GARGON_PATH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "scraping",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +89,9 @@
     "timeWeek": 37,
     "timeMonth": 44,
     "timeYear": 44,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-21": 0
+    }
   },
   {
     "name": "Postman API documentation",
