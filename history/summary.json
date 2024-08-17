@@ -4,9 +4,9 @@
     "url": "https://plus.gamediscover.co",
     "icon": "https://icons.duckduckgo.com/ip3/plus.gamediscover.co.ico",
     "slug": "game-discover-co-plus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 276,
     "timeMonth": 270,
     "timeYear": 269,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-17": 0
+    }
   },
   {
     "name": "GameDiscoverCo Console",
