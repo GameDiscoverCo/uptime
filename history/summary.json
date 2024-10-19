@@ -105,17 +105,19 @@
     "url": "https://documenter.getpostman.com/view/4312055/UVRHi3Y4",
     "icon": "https://icons.duckduckgo.com/ip3/documenter.getpostman.com.ico",
     "slug": "postman-api-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 659,
-    "timeDay": 464,
-    "timeWeek": 525,
-    "timeMonth": 669,
-    "timeYear": 659,
-    "dailyMinutesDown": {}
+    "time": 658,
+    "timeDay": 330,
+    "timeWeek": 484,
+    "timeMonth": 654,
+    "timeYear": 658,
+    "dailyMinutesDown": {
+      "2024-10-19": 0
+    }
   }
 ]
