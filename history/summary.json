@@ -105,9 +105,9 @@
     "url": "https://documenter.getpostman.com/view/4312055/UVRHi3Y4",
     "icon": "https://icons.duckduckgo.com/ip3/documenter.getpostman.com.ico",
     "slug": "postman-api-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -117,6 +117,7 @@
     "timeMonth": 683,
     "timeYear": 665,
     "dailyMinutesDown": {
+      "2024-11-14": 0,
       "2024-10-19": 22
     }
   }
