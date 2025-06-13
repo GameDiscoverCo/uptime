@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 171,
-    "timeWeek": 215,
-    "timeMonth": 230,
+    "timeDay": 420,
+    "timeWeek": 224,
+    "timeMonth": 229,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2025-01-28": 25
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 467,
-    "timeWeek": 224,
-    "timeMonth": 258,
-    "timeYear": 291,
+    "timeDay": 464,
+    "timeWeek": 243,
+    "timeMonth": 261,
+    "timeYear": 292,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 268,
-    "timeDay": 383,
-    "timeWeek": 220,
-    "timeMonth": 247,
+    "timeDay": 228,
+    "timeWeek": 233,
+    "timeMonth": 239,
     "timeYear": 275,
     "dailyMinutesDown": {}
   },
@@ -67,16 +67,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 278,
-    "timeDay": 141,
-    "timeWeek": 158,
-    "timeMonth": 296,
-    "timeYear": 278,
+    "timeDay": 469,
+    "timeWeek": 169,
+    "timeMonth": 295,
+    "timeYear": 279,
     "dailyMinutesDown": {
       "2024-12-20": 26,
       "2024-11-26": 34,
       "2024-10-10": 22,
-      "2024-07-03": 26,
-      "2024-06-13": 19
+      "2024-07-03": 26
     }
   },
   {
@@ -91,15 +90,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 68,
-    "timeDay": 49,
-    "timeWeek": 44,
-    "timeMonth": 203,
+    "timeDay": 60,
+    "timeWeek": 43,
+    "timeMonth": 202,
     "timeYear": 75,
     "dailyMinutesDown": {
       "2025-01-07": 130,
       "2024-11-26": 33,
-      "2024-07-03": 188,
-      "2024-06-13": 19
+      "2024-07-03": 188
     }
   },
   {
@@ -114,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 753,
-    "timeDay": 677,
-    "timeWeek": 618,
-    "timeMonth": 666,
+    "timeDay": 431,
+    "timeWeek": 595,
+    "timeMonth": 647,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2025-05-07": 25,
