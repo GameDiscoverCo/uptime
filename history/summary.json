@@ -4,19 +4,19 @@
     "url": "https://plus.gamediscover.co",
     "icon": "https://icons.duckduckgo.com/ip3/plus.gamediscover.co.ico",
     "slug": "game-discover-co-plus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 291,
     "timeDay": 276,
     "timeWeek": 261,
     "timeMonth": 264,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2025-07-19": 0,
+      "2025-07-19": 13,
       "2025-01-28": 25
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://console.gamediscover.co",
     "icon": "https://icons.duckduckgo.com/ip3/console.gamediscover.co.ico",
     "slug": "game-discover-co-console",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 301,
-    "timeDay": 281,
-    "timeWeek": 746,
-    "timeMonth": 409,
+    "timeDay": 257,
+    "timeWeek": 689,
+    "timeMonth": 404,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-07-19": 0
+      "2025-07-19": 13
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://gamediscover.co/",
     "icon": "https://icons.duckduckgo.com/ip3/gamediscover.co.ico",
     "slug": "company-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 267,
-    "timeDay": 264,
-    "timeWeek": 236,
-    "timeMonth": 240,
+    "timeDay": 202,
+    "timeWeek": 225,
+    "timeMonth": 237,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-07-19": 0
+      "2025-07-19": 13
     }
   },
   {
