@@ -1,7 +1,7 @@
 url: $GARGON_PATH
-status: up
-code: 200
-responseTime: 46
-lastUpdated: 2025-07-18T23:08:40.192Z
+status: down
+code: 503
+responseTime: 105
+lastUpdated: 2025-07-19T22:26:38.030Z
 startTime: 2024-02-09T10:30:00.258Z
 generator: Upptime <https://github.com/upptime/upptime>
