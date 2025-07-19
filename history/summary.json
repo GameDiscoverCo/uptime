@@ -6,7 +6,7 @@
     "slug": "game-discover-co-plus",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 264,
     "timeYear": 302,
     "dailyMinutesDown": {
+      "2025-07-19": 0,
       "2025-01-28": 25
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://console.gamediscover.co",
     "icon": "https://icons.duckduckgo.com/ip3/console.gamediscover.co.ico",
     "slug": "game-discover-co-console",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,16 +36,18 @@
     "timeWeek": 746,
     "timeMonth": 409,
     "timeYear": 309,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-19": 0
+    }
   },
   {
     "name": "Company site",
     "url": "https://gamediscover.co/",
     "icon": "https://icons.duckduckgo.com/ip3/gamediscover.co.ico",
     "slug": "company-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +56,9 @@
     "timeWeek": 236,
     "timeMonth": 240,
     "timeYear": 274,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-19": 0
+    }
   },
   {
     "name": "API",
