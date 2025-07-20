@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/plus.gamediscover.co.ico",
     "slug": "game-discover-co-plus",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 291,
     "timeDay": 292,
     "timeWeek": 258,
     "timeMonth": 265,
-    "timeYear": 302,
+    "timeYear": 301,
     "dailyMinutesDown": {
-      "2025-07-20": 0,
+      "2025-07-20": 21,
       "2025-01-28": 25
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://console.gamediscover.co",
     "icon": "https://icons.duckduckgo.com/ip3/console.gamediscover.co.ico",
     "slug": "game-discover-co-console",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 213,
-    "timeWeek": 681,
+    "time": 302,
+    "timeDay": 307,
+    "timeWeek": 653,
     "timeMonth": 404,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-07-20": 0
+      "2025-07-20": 21
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://gamediscover.co/",
     "icon": "https://icons.duckduckgo.com/ip3/gamediscover.co.ico",
     "slug": "company-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 268,
-    "timeDay": 473,
-    "timeWeek": 260,
-    "timeMonth": 244,
+    "timeDay": 370,
+    "timeWeek": 261,
+    "timeMonth": 245,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-07-20": 0
+      "2025-07-20": 21
     }
   },
   {
