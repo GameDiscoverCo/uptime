@@ -6,9 +6,9 @@
     "slug": "game-discover-co-plus",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.78%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 291,
     "timeDay": 257,
@@ -16,7 +16,7 @@
     "timeMonth": 266,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2025-07-20": 32,
+      "2025-07-20": 21,
       "2025-01-28": 25
     }
   },
@@ -27,17 +27,17 @@
     "slug": "game-discover-co-console",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "97.78%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 301,
     "timeDay": 368,
     "timeWeek": 655,
     "timeMonth": 407,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-07-20": 32
+      "2025-07-20": 21
     }
   },
   {
@@ -47,17 +47,17 @@
     "slug": "company-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "97.78%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 268,
     "timeDay": 257,
     "timeWeek": 275,
     "timeMonth": 248,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-07-20": 32
+      "2025-07-20": 21
     }
   },
   {
