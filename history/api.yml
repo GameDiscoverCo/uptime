@@ -1,7 +1,7 @@
 url: $SHREDDER_STATUS_PAGE
-status: up
-code: 200
-responseTime: 537
-lastUpdated: 2025-07-23T23:08:53.369Z
+status: down
+code: 503
+responseTime: 305
+lastUpdated: 2025-07-24T15:50:09.374Z
 startTime: 2024-02-09T10:29:59.277Z
 generator: Upptime <https://github.com/upptime/upptime>
